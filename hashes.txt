@@ -1,31 +1,6 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\hashes.txt
-BB8C53711CF10F96B599067AC2ADB2584409FCE005BAC58E32E2A4B99C8ADEAB *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Next Action_ Build the Cross-Vendor Contradiction Matrix (Vault-Ready).docx
-132BA2AA01742745E30EAE7D3C30E9A76B2DD1A5931B2831F034D6571CA25F38 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Next Action_ Build the Cross-Vendor Contradiction Matrix (Vault-Ready).md
-051F219845F5069967D5D5FD617D4A05D668DA0B83812D577E57529A51B6863C *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Next Action_ Build the Cross-Vendor Contradiction Matrix (Vault-Ready).pdf
-6B22EE99F1A0A52276B12C0F08D3B109545501AFE6D91E134B867E45FDE6E8CE *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot 2025-12-14 053405.png
-07B032E3BB13811C1EB14A6F5C93B88F150E0B073BB5BF3563F2D9E8DBC87BFF *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot 2025-12-14 053435.png
-8AD52E73D854261F6140F03D71C663264B9A42C8CCCD25FBD8F13170209367B3 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot 2025-12-14 053656.png
-1BF25DE2F877BA938F3C27178EFE775DF38EBFF8A4C990F99D3E4767D13B3811 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_51813_learn.microsoft.com.jpeg
-851E1F158C33FF55FB96EE5AF54C13F50A7AF72679DDEDCB436EAF1E146F5A4D *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_51837_learn.microsoft.com.jpeg
-F4C16321B46B99F5268300823C8A6AC774BD7BA019A6EBC70AAC8A811F8E2C57 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_51853_learn.microsoft.com.jpeg
-7C1D07F2C465656A1F5F72027DF86E397F51C86EB8BC952A8AE5D220FE4266F7 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_51920_learn.microsoft.com.jpeg
-E41EF9AA190008B21BCC941C692124E634E28567CE60DFF3F74324F9CBE81817 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_51944_docs.nvidia.com.jpeg
-B01473F32A6CABCBEAECB161C2A4EC6562BFA19ED73621B1A85AE503E211452D *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_5196_learn.microsoft.com.jpeg
-DAE6644143EB10A51F73299A9263A1BEEC9B0D96A70973B7D0AC9F5A7BF46C8F *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_5201_github.com.jpeg
-047480C9EDE69E86A9B21E36BF50C53D4FE0127B275DBEE59A4E3C1364FDEB60 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52029_deepwiki.com.jpeg
-402CBD00B697D051D649E63D493BD95F7E887A252F37480C786A089B5A7AF428 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52055_docs.nvidia.com.jpeg
-410642212788BC72DDC9270DF645D92B57FCAEEA410D0D12A3BE994087A79F4D *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52118_github.com.jpeg
-B6506E658DE24659E1EE11A7CBD0D802342074DD7A421647357D7449DB31A7F9 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52133_learn.microsoft.com.jpeg
-D90669F7255CFDF9B4C617B1391961C7B3CCF6BFCFD3FABE73B58F971CBFBABD *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52154_github.com.jpeg
-9FE01BB7A9B2917AC8BD02E4B28DE468CE69246C8AB06AC25DBADDC9A1416FCE *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52214_learn.microsoft.com.jpeg
-28E6F13F7C9866304CCFFF9BE50C94126EE8CE1AD8A0F9E112AB8CC6D3884E60 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52229_platform.openai.com.jpeg
-1371BC757A683B4E9B43DE749EF8D6A2E10D5C7FEA07C7D943BACD3E88036A9E *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52241_platform.openai.com.jpeg
-8B17C11DE95E66900E5AA05D8C95B24C6EA3889179CE4CE99D3108972EED9741 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52258_github.com.jpeg
-AD5A50060DBACFCE7AAA220CEE9B0ACDE4E950811A8258CE3DBA138D477A1F48 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52314_code.claude.com.jpeg
-7F77A6A10A009D9CAD6283C0F0278725209FB7B1A4559B8277F6C8366B2AEE0E *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52342_www.anthropic.com.jpeg
-9D1642342A1120DAFC81D55A04E68A802A4E80084E2A2C90C3EB9199D9F3694B *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_5240_time.com.jpeg
-5D2DFE493D963FE602C1B1B8FC36277ACCEE3DFFC041B057DBA585D4395C08E2 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52420_trackinai.com.jpeg
-795BB26BD92D77F5523A91766572AFA69883E89E045BF2099B014805019D8549 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Screenshot_14-12-2025_52441_www.theagencyjournal.com.jpeg
-BBE2563D8F7D22A810212A101BD2F7A62C623C65B0BBBCFF9C0ACF304FA3C881 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Vault-Ready Contradiction Matrix.docx
-68D8D12F927BC8A5E0BC1CECE0892B6A5A8A584A117077C6262B4ED6218621BF *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Vault-Ready Contradiction Matrix.md
-2721B8B5463F189841D1B86D6ECF9096661789707ADE279844BB3F8FE5EE2451 *C:\Users\Spenc\OneDrive\Desktop\Next Action Build the Cross Vendor Contradiction sources\Vault-Ready Contradiction Matrix.pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\hashes.txt
+1F7210B176FD80F366310CE4D63D04850B6903A7551C771C7DE11023E78F94B1 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\IP Contradiction and Retroactive Scramble.docx
+95677867BA6438C076A506655E23E1201EC82A592D625246EB35CCC941998C12 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\IP Contradiction and Retroactive Scramble.md
+05382649C2CB5C62CC8F2B304FD2E0AA0CBEA1A9CE3E566324AE5BA317C5F0D9 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\IP Contradiction and Retroactive Scramble.pdf
+E0DA9EBC67D1314C156F11AC981EF25F8ADDBC27B2FB689AE09536F979E55268 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\Screenshot 2025-12-09 150113.png
+5528EC574A48D8640794AFB5FBD08FA901E655C2F6B90C2A010DE6CD48FF3FB6 *C:\Users\Spenc\OneDrive\Desktop\Mirror exposure timeline 2\Screenshot 2025-12-09 150142.png
